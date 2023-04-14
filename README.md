@@ -22,3 +22,5 @@ This data science course covers algorithms from supervised learning, unsupervise
   * Tabular versus Deep Learning Methods
 ## Course Instructor
 Randy R. Davila
+## Programming language
+Python
