@@ -20,7 +20,11 @@ This data science course covers algorithms from supervised learning, unsupervise
 
 * Reinforcement Learning:
   * Tabular versus Deep Learning Methods
+##Data
+All data resource are from the public base: Kaggle [https://www.kaggle.com]
+
 ## Course Instructor
 Randy R. Davila
+
 ## Programming language
 Python
