@@ -7,7 +7,8 @@ Logistic Regression uses the cross-entropy loss as the cost function, which meas
 
 $$L(y, \hat{y}) = -[y \log(\hat{y}) + (1 - y) \log(1 - \hat{y})]$$
 
-where $y$ is the true label and $\hat{y}$ is the predicted probability.\\
+where $y$ is the true label and $\hat{y}$ is the predicted probability.
+
 To minimize the cross-entropy loss, Logistic Regression uses the gradient descent optimization algorithm. 
 
 ## Data
