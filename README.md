@@ -24,7 +24,7 @@ The insturctor of this course is Dr. Davila. We use Hands-On Machine Learning wi
 * Reinforcement Learning:
   * Tabular versus Deep Learning Methods
 
-##Data Source
+## Data Source
 All data resource are from the public base: Kaggle [https://www.kaggle.com]
 
 
