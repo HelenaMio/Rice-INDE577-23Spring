@@ -1,8 +1,11 @@
 # Rice-INDE577-23Spring
 By Beixian Gu
-## Course Description
-This data science course covers algorithms from supervised learning, unsupervised learning, and if time permits, reinforcement learning. We will implement many of the machine learning algorithms from scratch, but will also make use of the Scikit-Learn and Tensorflow libraries. Topics include, but are not limited to:
 
+## Course Description
+This repository is created by Beixian Gu, a graduate student of industrial Engineering from Rice University. To display the algorithms of this course, this repository contains the introductions and applications covering supervised learning, unsupervised learning and reinforment learning.
+The insturctor of this course is Dr. Davila. We use Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron as text book. The goal of this course is provide students with algorithms and implementations of datasets and machine learnings. 
+
+## Repository Construction
 * Supervised Learning:
   *  Model Building and Error Analysis
   * Linear Regression
