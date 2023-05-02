@@ -32,3 +32,6 @@ Function approximation is the process of approximating the value function using 
 Deep RL is a type of Approximate RL that uses deep neural networks as function approximators. Deep RL algorithms have achieved impressive results in complex tasks, such as playing video games or controlling robots. The most popular Deep RL algorithm is the Deep Q-Network (DQN) algorithm.
 
 In summary, RL algorithms are a powerful tool for learning to make decisions in dynamic environments. Tabular RL works by constructing a table of expected rewards, while Approximate RL works by approximating the value function using a function approximator, such as a neural network.
+
+## Data Resource
+Iris Dataser is used to apply the simple Q-learning algorithm.
