@@ -29,4 +29,4 @@ All data resource are from the public base: Kaggle [https://www.kaggle.com]
 
 
 ## Programming language
-Python
+Python 3.9.13
