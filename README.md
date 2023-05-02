@@ -25,8 +25,8 @@ The insturctor of this course is Dr. Davila. We use Hands-On Machine Learning wi
   * Approximate RL
   
 * Stroke Application
-## Data Source
-All data resource are from the public base: Kaggle [https://www.kaggle.com]
+## Data Resource
+All dataset resource are from the public base: Kaggle [https://www.kaggle.com]
 
 
 ## Programming language
