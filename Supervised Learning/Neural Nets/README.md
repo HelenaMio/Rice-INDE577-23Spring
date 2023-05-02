@@ -1,6 +1,6 @@
 # Nerual Nets
 ## Simple Layer Neural Network (Single-Layer Perceptron):
-   ![image.png](attachment:image.png)
+   ![image.png](https://qph.cf2.quoracdn.net/main-qimg-445078d3983bbe57c93696e6db990a79-lq)
    
 A simple neural network, also known as a single-layer perceptron, is the most basic form of a neural network. It consists of a single layer of artificial neurons, or perceptrons, that are connected directly to the input features. Each perceptron computes a weighted sum of its input features and applies an activation function to generate an output. The single-layer perceptron can be used to solve linearly separable problems.
 
