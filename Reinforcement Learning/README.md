@@ -34,4 +34,4 @@ Deep RL is a type of Approximate RL that uses deep neural networks as function a
 In summary, RL algorithms are a powerful tool for learning to make decisions in dynamic environments. Tabular RL works by constructing a table of expected rewards, while Approximate RL works by approximating the value function using a function approximator, such as a neural network.
 
 ## Data Resource
-Iris Dataser is used to apply the simple Q-learning algorithm.
+Iris data is used to apply the simple Q-learning algorithm.
