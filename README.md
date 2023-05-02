@@ -2,8 +2,7 @@
 ### Author: Beixian Gu
 
 ## Repository Description
-This repository is created by Beixian Gu, a graduate student of industrial Engineering from Rice University. To display the algorithms of this course, this repository contains the introductions and applications covering supervised learning, unsupervised learning and reinforment learning.
-The insturctor of this course is Dr. Davila. We use Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, by Aurélien Géron as text book. The goal of this course is provide students with algorithms and implementations of datasets and machine learnings. 
+This repository has been created by Beixian Gu, a graduate student of Industrial Engineering at Rice University. It serves as the course project for INDE 577 - Data Science and Machine Learning. The objective of this course is to equip students with knowledge of various algorithms and implementations of datasets and machine learning techniques. The instructor for this course is Dr. Davila, and the textbook being used is Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition, authored by Aurélien Géron.
 
 ## Repository Structure
 * Supervised Learning:
